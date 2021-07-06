@@ -1,6 +1,25 @@
-org/example/springboot/Application.java
- org.example.springboot.Application
+org/example/springboot/web/dto/PostsUpdateRequestDto.java
+ org.example.springboot.web.dto.PostsUpdateRequestDto
+ org.example.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
 org/example/springboot/web/dto/HelloResponseDto.java
  org.example.springboot.web.dto.HelloResponseDto
 org/example/springboot/web/HelloController.java
  org.example.springboot.web.HelloController
+org/example/springboot/domain/posts/PostsRepository.java
+ org.example.springboot.domain.posts.PostsRepository
+org/example/springboot/domain/posts/Posts.java
+ org.example.springboot.domain.posts.Posts
+ org.example.springboot.domain.posts.Posts$PostsBuilder
+org/example/springboot/web/PostsApiController.java
+ org.example.springboot.web.PostsApiController
+org/example/springboot/web/dto/PostsSaveRequestDto.java
+ org.example.springboot.web.dto.PostsSaveRequestDto
+ org.example.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+org/example/springboot/domain/BaseTimeEntity.java
+ org.example.springboot.domain.BaseTimeEntity
+org/example/springboot/web/dto/PostsResponseDto.java
+ org.example.springboot.web.dto.PostsResponseDto
+org/example/springboot/Application.java
+ org.example.springboot.Application
+org/example/springboot/service/posts/PostsService.java
+ org.example.springboot.service.posts.PostsService

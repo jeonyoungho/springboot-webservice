@@ -2,3 +2,7 @@ org/example/springboot/web/dto/HelloRespoinseDtoTest.java
  org.example.springboot.web.dto.HelloRespoinseDtoTest
 org/example/springboot/web/HelloControllerTest.java
  org.example.springboot.web.HelloControllerTest
+org/example/springboot/web/PostsApiControllerTest.java
+ org.example.springboot.web.PostsApiControllerTest
+org/example/springboot/domain/posts/PostsRepositoryTest.java
+ org.example.springboot.domain.posts.PostsRepositoryTest
