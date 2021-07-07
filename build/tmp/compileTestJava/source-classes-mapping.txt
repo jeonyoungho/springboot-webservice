@@ -6,3 +6,5 @@ org/example/springboot/web/PostsApiControllerTest.java
  org.example.springboot.web.PostsApiControllerTest
 org/example/springboot/domain/posts/PostsRepositoryTest.java
  org.example.springboot.domain.posts.PostsRepositoryTest
+org/example/springboot/web/IndexControllerTest.java
+ org.example.springboot.web.IndexControllerTest

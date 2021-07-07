@@ -4,6 +4,8 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.MySQL57Dialect
+    hibernate:
+      ddl-auto: update # validate
   h2:
     console:
       enabled: true
