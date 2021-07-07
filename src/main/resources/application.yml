@@ -9,7 +9,7 @@ spring:
   h2:
     console:
       enabled: true
-      path: /console
+      path: /h2-console
   datasource:
     hikari:
       jdbc-url: jdbc:h2:mem:testdb;MODE=MYSQL
@@ -17,3 +17,5 @@ spring:
       password: sapw
   profiles:
     include: oauth
+  session:
+    store-type: jdbc
